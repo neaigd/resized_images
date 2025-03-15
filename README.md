@@ -227,9 +227,37 @@ Agora, seu projeto estará publicado no GitHub e você poderá continuar editand
 
 ---
 
-## Conclusão
+## Configuração do Git e GitHub
 
-Este setup facilita o desenvolvimento e manutenção do projeto de redimensionamento de imagens, além de auxiliar na publicação e versionamento via GitHub.
+1. **Inicialize o repositório Git:**
+```bash
+git init
+git add .
+git commit -m "Initial commit: Configuração inicial do projeto"
+```
+
+2. **Crie um novo repositório no GitHub:**
+- Acesse https://github.com/new
+- Preencha o nome do repositório (ex: "image-resizer")
+- Não inicialize com README ou .gitignore
+
+3. **Conecte ao repositório remoto:**
+```bash
+git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+```
+
+4. **Envie as alterações:**
+```bash
+git push -u origin main
+```
+
+## Gerenciamento do Ambiente Virtual
+
+Para ativar o ambiente virtual e instalar dependências:
+```bash
+source venv/bin/activate  # Linux/Mac
+pip install -r requirements.txt
+```
 ```
 
 ---
