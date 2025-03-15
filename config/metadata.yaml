@@ -1,0 +1,19 @@
+# yaml-language-server: $schema: disable
+
+projeto:
+  nome: "Conversor de Imagens Científicas"
+  versao: "1.0"
+  autor: "Núcleo de Estudos AI Generativa Aplicada ao Direito"
+  instituicao: "Ainda sem filiação"
+  descricao: "Sistema de conversão de imagens para artigos científicos"
+  licenca: "CC BY-NC 4.0"
+
+parametros:
+  dpi: 300
+  formato: "PNG"
+  qualidade: 95
+  largura_a4: "80%"
+
+contato:
+  email: "luizpeixoto.adv@gmail.com"
+  website: "https://www.luizpeixoto.com"

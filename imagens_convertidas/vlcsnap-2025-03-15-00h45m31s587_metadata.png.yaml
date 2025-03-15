@@ -1,0 +1,30 @@
+contato:
+  email: luizpeixoto.adv@gmail.com
+  website: https://www.luizpeixoto.com
+imagem:
+  original:
+    caminho: imagens_recebidas/vlcsnap-2025-03-15-00h45m31s587.png
+    dimensoes: !!python/tuple
+    - 640
+    - 360
+    formato: PNG
+  processada:
+    dimensoes: !!python/tuple
+    - 1984
+    - 1116
+    formato: PNG
+parametros:
+  dpi: 300
+  formato: PNG
+  largura_a4: 80%
+  qualidade: 95
+processamento:
+  data: '2025-03-15T02:29:44.106761'
+  versao_software: '1.0'
+projeto:
+  autor: "N\xFAcleo de Estudos AI Generativa Aplicada ao Direito"
+  descricao: "Sistema de convers\xE3o de imagens para artigos cient\xEDficos"
+  instituicao: "Ainda sem filia\xE7\xE3o"
+  licenca: CC BY-NC 4.0
+  nome: "Conversor de Imagens Cient\xEDficas"
+  versao: '1.0'

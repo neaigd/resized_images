@@ -12,9 +12,6 @@ eggs/
 .eggs
 venv/
 
-# Diretórios de imagens processadas
-imagens_convertidas/
-
 # IDE
 .vscode/
 .idea/

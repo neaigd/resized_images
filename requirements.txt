@@ -1,1 +1,5 @@
-Pillow
+Pillow==10.3.0
+reportlab==4.1.0
+PyYAML==6.0.1
+pytest==8.0.2
+piexif==1.1.3
