@@ -263,3 +263,4 @@ pip install -r requirements.txt
 ---
 
 Com este projeto, você tem uma solução completa para redimensionar imagens de forma padronizada e um ambiente configurado para edição no VS Code, além de orientações para publicar o repositório no GitHub. Basta clonar ou criar os arquivos conforme a estrutura acima, instalar as dependências e ajustar os caminhos conforme necessário.
+# resized_images
